@@ -1,0 +1,57 @@
+Cybersecurity and Cyberwar : 
+
+P.W. Singer and Allan Friedman
+1988 - security - 481 
+The book provides a comprehensive overview of the challenges and opportunities presented by the digital age, covering a wide range of topics relevant to both individuals and organizations.
+
+The authors delve into the intricacies of cyber threats, from hacker attacks and data breaches to state-sponsored espionage and cyber warfare. They examine the evolving nature of cyber threats and the ways in which technology has transformed the landscape of conflict and security.
+
+One of the book's strengths lies in its accessibility. Singer and Friedman break down complex concepts into understandable language, making the material accessible to readers regardless of their technical expertise. They provide real-world examples and case studies to illustrate key points, helping readers grasp the significance of cybersecurity issues in today's interconnected world.
+===============================================================================================================================================================
+The Art of Deception :
+
+Kevin D. Mitnick and William L. Simon
+1999 - security - 500
+The book is structured around a series of engaging anecdotes and real-world examples that illustrate various techniques used by hackers to exploit human vulnerabilities. Mitnick masterfully demonstrates how seemingly innocuous interactions, such as a phone call or an email, can be leveraged to gain unauthorized access to sensitive information or systems.
+
+Through these stories, readers gain insight into the tactics employed by social engineers, including pretexting, phishing, and tailgating, among others. Mitnick highlights the importance of skepticism and critical thinking in identifying and thwarting such attacks, emphasizing the need for organizations to invest in security awareness training for their employees.
+===============================================================================================================================================================
+Hacking : 
+
+Jon Erickson
+2004 - security - 480
+The book begins with an introduction to programming in C, making it accessible to readers with basic programming knowledge. From there, Erickson covers a wide range of topics, including buffer overflows, shellcode, cryptography, and network protocols. He explains each concept in detail, providing clear explanations and hands-on examples to help readers understand the underlying principles.
+
+One of the key strengths of "Hacking" is its emphasis on practical experimentation. Throughout the book, Erickson encourages readers to follow along with the examples using a computer equipped with a Linux environment. By actively engaging with the material, readers not only gain a deeper understanding of the concepts but also develop practical skills that they can apply in real-world scenarios.
+===============================================================================================================================================================
+Security Engineering :
+
+Ross J. Anderson
+2002 - security - 308
+The book covers a wide range of topics, including cryptographic protocols, access control mechanisms, secure software development practices, and security economics. Anderson's approach is both theoretical and practical, combining in-depth analysis with real-world examples and case studies to illustrate key concepts.
+
+One of the book's strengths lies in its accessibility. Despite the complex nature of the subject matter, Anderson presents the material in a clear and understandable manner, making it accessible to readers with varying levels of technical expertise. He breaks down complex concepts into digestible chunks, providing clear explanations and intuitive diagrams to aid comprehension.
+===============================================================================================================================================================
+Network Security Essentials :
+
+William Stallings
+2000 - security -200
+The book covers a wide range of topics, including cryptographic algorithms, authentication mechanisms, access control models, firewalls, intrusion detection systems, and virtual private networks (VPNs). Stallings' approach is both theoretical and practical, combining in-depth analysis with real-world examples and case studies to illustrate key concepts.
+
+One of the book's strengths lies in its organization and clarity. Stallings presents the material in a logical and structured manner, starting with foundational concepts and gradually building up to more advanced topics. Each chapter begins with learning objectives and concludes with a summary and review questions to reinforce understanding.
+===============================================================================================================================================================
+Black Hat Python :
+Justin Seitz
+1999 - security - 436
+The book begins with an introduction to Python programming basics, making it accessible to readers with varying levels of programming experience. From there, Seitz covers a wide range of topics, including network scanning, vulnerability exploitation, reverse engineering, and creating custom malware.
+
+One of the key strengths of "Black Hat Python" is its hands-on approach. Seitz provides step-by-step instructions and code examples for each technique, allowing readers to follow along and experiment with the material in a safe and controlled environment. By actively engaging with the exercises, readers not only gain a deeper understanding of Python programming but also develop practical skills that they can apply in real-world scenarios.
+===============================================================================================================================================================
+The Web Application Hacker's Handbook :
+
+Dafydd Stuttard and Marcus Pinto
+1999 - security - 306
+The book covers a wide range of topics, including the anatomy of web attacks, common vulnerabilities such as SQL injection and cross-site scripting (XSS), and advanced exploitation techniques. Stuttard and Pinto provide detailed explanations of each vulnerability type, along with real-world examples and case studies to illustrate how they can be exploited in practice.
+
+One of the key strengths of "The Web Application Hacker's Handbook" is its practical focus. The authors provide step-by-step instructions for discovering and exploiting vulnerabilities, using both manual techniques and automated tools. They also offer guidance on how to secure web applications against these vulnerabilities, with practical advice for developers and security professionals.
+==============================================================================================================================================================

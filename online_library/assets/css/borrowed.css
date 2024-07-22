@@ -1,0 +1,25 @@
+body {
+  background-color: #43372C;
+}
+.borrowed .borrowed-books {
+  color: #715D4A;
+  font-size: 24px;
+}
+.borrowed div {
+  border-bottom: 1px solid #715D4A;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.borrowed img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.borrowed p {
+  margin: 0;
+  color: white;
+}
